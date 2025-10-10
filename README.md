@@ -278,3 +278,47 @@ An automated **multi-account AWS security scanner** that mirrors enterprise-scal
 | **Sep 2027** | Begin applying for jobs and contacting recruiters                |                                 |           |
 | **Sep 2027** | Add "Future Research" section to your portfolio website            |                                 |           |
 
+----
+
+# **24-Month Cybersecurity Roadmap & Tracker**
+
+## **Year 1: The Purple Team Apprentice**
+
+| Month        | Focus / Goals                                                                    | Deliverables / Projects                                                                                                                            | Progress       |
+| ------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Oct 2025** | CEH Theory (Intro, Footprinting, Scanning), Lab Foundation, ReconKit Kickoff     | - Create GitHub repo<br>- `/lab-setup` directory with VM screenshots<br>- `/toolkit-reconkit/header_fetch.py`                                      | 📝 In Progress |
+| **Nov 2025** | CEH Theory (Enumeration, System Hacking), ReconKit Evolution, Threat of the Week | - `/toolkit-reconkit/log_parser.py` (counts 404s)<br>- First "Threat of the Week" summary in `/threat-intel`                                       | 📝 In Progress |
+| **Dec 2025** | CEH Theory (Malware, Sniffing), Practical Tools, Toolkit Automation              | - `/toolkit-reconkit/nmap_automator.py`<br>- Quarterly Reflection #1 (`/reflections`)<br>- One-page PDF portfolio                                  | 📝 In Progress |
+| **Jan 2026** | CEH Final Theory & Exam Prep                                                     | - Markdown summary of practice exams<br>- Final study plan                                                                                         | 📝 In Progress |
+| **Feb 2026** | CEH Labs (1/3), SIEM Installation                                                | - Markdown documenting first 33% labs<br>- Running Wazuh/Security Onion VM                                                                         | 📝 In Progress |
+| **Mar 2026** | CEH Labs (2/3), Log Collection, Reflection #2                                    | - Install Wazuh agents (Windows/Linux)<br>- Verify logs<br>- Quarterly Reflection #2<br>- Updated portfolio PDF                                    | 📝 In Progress |
+| **Apr 2026** | CEH Labs (3/3), SIEM Documentation                                               | - Complete project write-up for Home Lab SIEM                                                                                                      | 📝 In Progress |
+| **May 2026** | CEH Exam & First Red Team Weekend                                                | - CEH certificate<br>- TryHackMe profile link on GitHub README                                                                                     | 📝 In Progress |
+| **Jun 2026** | Cloud Networking & Terraform Intro                                               | - Network diagram of standard VPC<br>- `/terraform-projects` with first script (S3 bucket)<br>- Quarterly Reflection #3<br>- Updated portfolio PDF | 📝 In Progress |
+| **Jul 2026** | Build Secure Cloud Network                                                       | - Full Terraform script to deploy secure VPC                                                                                                       | 📝 In Progress |
+| **Aug 2026** | Deploy Server & Connect to SIEM                                                  | - Update Terraform to deploy EC2<br>- Screenshot of CloudTrail logs in SIEM                                                                        | 📝 In Progress |
+| **Sep 2026** | Detection Engineering & Year-End Review                                          | - Custom SIEM rule for CloudTrail events<br>- Quarterly Reflection #4<br>- Updated portfolio PDF                                                   | 📝 In Progress |
+
+---
+
+## **Year 2: The AI-Powered Security Specialist**
+
+| Month        | Focus / Goals                        | Deliverables / Projects                                                                                                                           | Progress       |
+| ------------ | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Oct 2026** | Python for Cloud Automation          | - `/cloud-automation/list_iam_users.py` using `boto3`                                                                                             | 📝 In Progress |
+| **Nov 2026** | Build Cloud Security Tool            | - Python script to check S3 buckets' public status                                                                                                | 📝 In Progress |
+| **Dec 2026** | Practical Hacking & Reflection       | - TryHackMe "Web Fundamentals"<br>- Hack The Box Easy machine write-up<br>- Quarterly Reflection #5<br>- Updated portfolio                        | 📝 In Progress |
+| **Jan 2027** | AI/ML Theory for Security            | - Markdown explaining Classification vs. Anomaly Detection                                                                                        | 📝 In Progress |
+| **Feb 2027** | AI Project 1 – Phishing Classifier   | - `/AI4Sec/phishing_classifier.ipynb` Jupyter Notebook                                                                                            | 📝 In Progress |
+| **Mar 2027** | AI Project 2 – Log Anomaly Detection | - `/AI4Sec/log_anomaly_detection.ipynb`<br>- Quarterly Reflection #6<br>- LinkedIn post & portfolio update                                        | 📝 In Progress |
+| **Apr 2027** | Bug Bounty Automation                | - Python script in ReconKit chaining `subfinder` + `httpx`                                                                                        | 📝 In Progress |
+| **May 2027** | Portfolio & Resume                   | - Live GitHub Pages portfolio<br>- PDF resume draft                                                                                               | 📝 In Progress |
+| **Jun 2027** | LinkedIn & Professional Branding     | - Polished LinkedIn profile<br>- Featured article<br>- Quarterly Reflection #7<br>- Portfolio PDF update                                          | 📝 In Progress |
+| **Jul 2027** | Interview Prep – Blue Team & Cloud   | - Markdown file with answers to 10 common questions<br>- 5-minute project presentations                                                           | 📝 In Progress |
+| **Aug 2027** | Interview Prep – AI & Purple Team    | - Markdown file with 5 conceptual questions<br>- Recorded project explanations                                                                    | 📝 In Progress |
+| **Sep 2027** | Job Hunt & Future Vision             | - Begin applying for jobs<br>- Portfolio "Future Research" section (Quantum Computing, AI-driven defense)<br>- Final Reflection (private journal) | 📝 In Progress |
+
+---
+
+
+
