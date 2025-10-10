@@ -10,3 +10,15 @@ This repository documents my journey of becoming a cybersecurity professional. M
 * **[AI for Security (AI4Sec)](https://github.com/Aaryan-khairnar/ai-security-projects/)**: Experiments in using Machine Learning for threat detection and classification.
 * **[Lab Environments](https://github.com/Aaryan-khairnar/lab-setup/)**: Documentation for my on-premise and cloud lab setups.
 * **[Quarterly Reflections](https://github.com/Aaryan-khairnar/reflections/)**: My thoughts and learnings at the end of each quarter.
+
+-----
+
+## **Personal Achievement Tracker:**
+    
+    - **Markdown table to visualize my progress and keep myself accountable.**
+              
+        |Month|Theme|Goal Achieved (✅/❌)|Reflection Link|Repo Link|
+        |---|---|---|---|---|
+        |**Oct 2025**|CEH & Lab Setup||||
+        |**Nov 2025**|Python & Threat Intel||||
+        |...|...||||
