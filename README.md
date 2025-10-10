@@ -14,11 +14,9 @@ This repository documents my journey of becoming a cybersecurity professional. M
 -----
 
 ## **Personal Achievement Tracker:**
-    
-    - **Markdown table to visualize my progress and keep myself accountable.**
-              
-        |Month|Theme|Goal Achieved (✅/❌)|Reflection Link|Repo Link|
-        |---|---|---|---|---|
-        |**Oct 2025**|CEH & Lab Setup||||
-        |**Nov 2025**|Python & Threat Intel||||
-        |...|...||||
+- **Markdown table to visualize my progress and keep myself accountable.**
+|Month|Theme|Goal Achieved (✅/❌)|Reflection Link|Repo Link|
+|---|---|---|---|---|
+|**Oct 2025**|CEH & Lab Setup||||
+|**Nov 2025**|Python & Threat Intel||||
+|...|...||||
