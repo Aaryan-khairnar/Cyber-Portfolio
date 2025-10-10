@@ -13,10 +13,8 @@ This repository documents my journey of becoming a cybersecurity professional. M
 
 -----
 
-## **Personal Achievement Tracker:**
+## **Progress and Achievement Tracker:**
 - **Markdown table to visualize my progress and keep myself accountable.**
-
-# My 24-Month Cybersecurity Progress Tracker
 
 | Month      | Goal                                                               | Status (📝 In Progress / ✅ Done) | Repo Link |
 | :--------- | :----------------------------------------------------------------- | :------------------------------ | :-------- |
