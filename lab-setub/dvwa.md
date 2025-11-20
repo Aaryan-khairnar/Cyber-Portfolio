@@ -34,7 +34,7 @@ CONTAINER ID   IMAGE                COMMAND     CREATED          STATUS         
 - Dvwa accessable on http://ubuntu-server-ip:8080/ which is http://192.168.0.50:8080/login.php
 
 
-[Dvwa setup](1.png)
+![Dvwa setup](1.png)
 
 
 ### 3. Stop the docker image
